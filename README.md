@@ -8,4 +8,4 @@ just run main.py
 
 ### credit 
 goes to dwyl/english-words for the large word list
-words_alpha.txt 
+
