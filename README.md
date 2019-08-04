@@ -6,5 +6,6 @@ searches for the anagram and anagrams of all letter combinations in the word (do
 just run main.py
 
 
-### credit goes to dwyl/english-words for the large word list
+### credit 
+goes to dwyl/english-words for the large word list
 words_alpha.txt 
